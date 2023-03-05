@@ -1,6 +1,0 @@
-Noi dung file 1 :Xaaaaa
-
-May tinh 2
-
-FGHJKL git gui 
-\edit sthng
