@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Xung cvs
-=======
-Sontmmadasdsa
->>>>>>> main
